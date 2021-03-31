@@ -13,7 +13,6 @@ class OperatorEx14 {
 			System.out.print(c++);//'A'부터 26개의 문자를 출력
 		}
 		System.out.println();
-		
 		c='0';
 		for(int i = 0; i<10; i++) {
 			System.out.print(c++);// '0'부터 10개의 문자를 출력
