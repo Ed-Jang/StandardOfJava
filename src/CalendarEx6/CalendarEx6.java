@@ -33,7 +33,6 @@ class CalendarEx6 {
 
 		System.out.println("    " + args[0] + "년 " + args[1] + "월");
 		System.out.println(" SU MO TU WE TH FR SA");
-
 		// 해당 월의 1일이 어느 요일인지에 따라서 공백을 출력한다
 		// 만약 1일이 수요일이라면 공백을 세 번 찍는다
 		for (int i = 1; i < START_DAY_OF_WEEK; i++) {
